@@ -1,0 +1,17 @@
+body
+{
+    background-size: cover;
+}
+.heading{
+    color: white;
+    font-family:'Rampart One', cursive;
+}
+#inst{
+    font-family: 'Bruno Ace SC', cursive;
+   letter-spacing: 1px;
+    font-size: 18px;
+}
+.btn-success{
+    font-family: 'Bruno Ace SC', cursive;
+    font-size: 18px;
+}
